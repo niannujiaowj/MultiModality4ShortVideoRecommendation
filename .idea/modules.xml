@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MultiModality4ShortVideoRecommendation.iml" filepath="$PROJECT_DIR$/.idea/MultiModality4ShortVideoRecommendation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../S3D_HowTo100M/.idea/S3D_HowTo100M.iml" filepath="$PROJECT_DIR$/../S3D_HowTo100M/.idea/S3D_HowTo100M.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../video_feature_extractor/.idea/video_feature_extractor.iml" filepath="$PROJECT_DIR$/../video_feature_extractor/.idea/video_feature_extractor.iml" />
+    </modules>
+  </component>
+</project>
