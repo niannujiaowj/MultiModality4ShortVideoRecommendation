@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../S3D_HowTo100M" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../video_feature_extractor" vcs="Git" />
-  </component>
-</project>
