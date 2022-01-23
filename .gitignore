@@ -1,7 +1,5 @@
 /data/
 /mm4svr/
-/requirements
 /temp.csv
-/temp.py
 *.DS_Store
 *.idea/*
