@@ -1,4 +1,5 @@
-
+This project aims to optimise short-video recommendation using multi-modal
+information.
 
 # Set Up
 
